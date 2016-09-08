@@ -15,7 +15,7 @@ How to test :
 * GET localhost:8080/param/test
 * POST localhost:8080/POST
 
-To test the GET, simply open the url in a browser
+To test the GET, simply open the url in a browser  
 To test the POST, use the provided webform under src/main/resource
 
 
