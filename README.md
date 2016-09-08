@@ -1,4 +1,4 @@
-# H1 RestExample
+# RestExample
 
 How to import :
 * File -> Import -> Maven -> Existing Maven Projects
