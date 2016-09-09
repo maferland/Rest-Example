@@ -7,7 +7,7 @@ How to run :
 * Open App.java
 * Run 
 
-App will be served on localhost:8080
+App will be served on localhost:8080/home/hello
 
 How to test :
 * GET localhost:8080/home/hello
